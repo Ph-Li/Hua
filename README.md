@@ -10,5 +10,5 @@
 &emsp;  
 
 ------
-Contact me if you need the origin .3dm file.
+Contact me if you need the original .3dm file.
 :)
